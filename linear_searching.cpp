@@ -22,5 +22,8 @@ int main() {
 
     return 0;
 }
-
+// Time complexity
+best case :  big O (1 )
+avg case : big O (n)
+worst case : big O (n)
 
