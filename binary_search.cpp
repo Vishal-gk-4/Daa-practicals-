@@ -32,7 +32,7 @@ int main() {
 
  // Time complexity
 best case :  big O (1)
-avg case : big O (n log n)
-worst case : big O (n log n)
+avg case : big O (log n)
+worst case : big O ( log n)
         
 
