@@ -40,3 +40,8 @@ int main() {
 
     return 0;
 }
+
+// Time complexity
+best case :  big O (n log n )
+avg case : big O (n log n)
+worst case : big O (n^2)
