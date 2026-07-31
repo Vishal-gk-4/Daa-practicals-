@@ -30,3 +30,8 @@ int main()
 
     return 0;
 }
+
+// Time complexity
+best case :  big O (n^2)
+avg case : big O (n^2)
+worst case : big O (n^2)
