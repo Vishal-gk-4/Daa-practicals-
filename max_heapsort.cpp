@@ -66,3 +66,4 @@ int main()
     return 0;
 }
   conclusion : i had  done this practical it is based on the binary search ( exactly 2 nodes ) not more than that , and it helps us to sorting either ascending order or descending order
+time complexity is big O (n log n) and space complexity big O (1)
