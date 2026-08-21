@@ -18,4 +18,6 @@ cout<<"your element factorial: "<<factorial(n)<<endl;
 
     return 0;
 }
-conclusion : this practical based on the factorial , it calculated all the number with multiplication , and time complexoity of this big O(n) and space complexity is big O(1)
+conclusion : 
+this practical based on the factorial , it calculated all the number with multiplication ,
+and time complexoity of this big O(n) and space complexity is big O(1)
