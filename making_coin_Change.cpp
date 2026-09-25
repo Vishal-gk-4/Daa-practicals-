@@ -54,3 +54,8 @@ int main()
 
     return 0;
 }
+output :  3 
+
+    conclusion :  making coin problem was belongs to the dynamic programming and it states that we need fit the minimum number of coins to fullfill the amount 
+time complexity : (O x A )
+    space complexity : (O  x A ) 
