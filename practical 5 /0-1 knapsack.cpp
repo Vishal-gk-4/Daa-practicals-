@@ -5,8 +5,8 @@ int dp[100][100];
 
 int knapsack(int n, int capacity, int weight[], int value[]) // this function calculates the maximum value
 {
-    // Base case
-    if(n == 0 || capacity == 0)
+    
+    if(n == 0 || capacity == 0) // this says that the base class which mean first condition 
         return 0;
 
     // Already calculated
