@@ -3,7 +3,7 @@ using namespace std;
 
 int dp[100][100];
 
-int knapsack(int n, int capacity, int weight[], int value[])
+int knapsack(int n, int capacity, int weight[], int value[]) // this function calculates the maximum value
 {
     // Base case
     if(n == 0 || capacity == 0)
