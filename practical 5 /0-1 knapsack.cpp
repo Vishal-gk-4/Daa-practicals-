@@ -60,5 +60,5 @@ Conclusion : the above knapsack problem will belongs to the dynamic programming 
  i) memoization 
 ii) tabular 
 
- time complexity : (n x w)
+ time complexity : (n x w)   n = number of items  , w = bag  capacity 
   space complexity : (n x w) 
