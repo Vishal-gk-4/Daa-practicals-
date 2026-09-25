@@ -54,7 +54,7 @@ int main()
     return 0;
 }
 
-
+output :  7 ;
 
 Conclusion : the above knapsack problem will belongs to the dynamic programming , it check the capacity , weight and value (profit ) to be stored  it has the two 
  i) memoization 
